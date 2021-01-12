@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Weather App</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="made_by">Made by</string>
+    <string name="name">Sulaiman</string>
+    <string name="error">Error</string>
 </resources>
